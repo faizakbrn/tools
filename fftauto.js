@@ -27,7 +27,7 @@ const User = [
 	{
 		type:'input',
 		name:'target',
-		message:'viccent22'
+		message:'maharapall'
 	},
 	{
 		type:'input',
