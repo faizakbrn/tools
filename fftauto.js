@@ -16,28 +16,28 @@ const User = [
 	{
 		type:'input',
 		name:'username',
-		message:'hypebeaststoremlg'
+		message:'Insert Username'
 	},
 	{
 		type:'password',
 		name:'password',
-		message:'egasari',
+		message:'Insert Password',
 		mask:'*'
 	},
 	{
 		type:'input',
 		name:'target',
-		message:'maharapall'
+		message:'Insert Username Target (Without @[at])'
 	},
 	{
 		type:'input',
 		name:'text',
-		message:'Follback kak'
+		message:'Insert Text Comment'
 	},
 	{
 		type:'input',
 		name:'sleep',
-		message:'150000',
+		message:'Insert Sleep (In MiliSeconds)',
 		validate: function(value){
 			value = value.match(/[0-9]/);
 			if (value) return true;
