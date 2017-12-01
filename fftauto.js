@@ -16,23 +16,23 @@ const User = [
 	{
 		type:'input',
 		name:'username',
-		message:'Insert Username'
+		message:'hypebeaststoremlg'
 	},
 	{
 		type:'password',
 		name:'password',
-		message:'Insert Password',
+		message:'egasari',
 		mask:'*'
 	},
 	{
 		type:'input',
 		name:'target',
-		message:'Insert Username Target (Without @[at])'
+		message:'viccent22'
 	},
 	{
 		type:'input',
 		name:'text',
-		message:'Insert Text Comment'
+		message:'Follback kak'
 	},
 	{
 		type:'input',
